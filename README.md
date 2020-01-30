@@ -23,6 +23,8 @@ Curated list of awesome resources to access data from The Cancer Genome Atlas (T
 ## Downloading the data
 
 List of command line tools, API or R packages to download the data.
+*Try this one* [gdc-rnaseq-tool](https://github.com/cpreid2/gdc-rnaseq-tool)
+
 
 ### Official tools
 
